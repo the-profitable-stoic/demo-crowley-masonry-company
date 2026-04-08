@@ -1,0 +1,551 @@
+{
+  "business": {
+    "name": "Crowley Masonry Company",
+    "phone": "+12818255182",
+    "category": "masonry contractor",
+    "city": "Houston",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Houston's Trusted Masonry Experts",
+      "heroSubline": "Delivering enduring quality and craftsmanship across Houston. From foundations to facades, we build it to last.",
+      "aboutTitle": "Crafting Houston's Landscape, One Brick at a Time",
+      "aboutText": [
+        "Crowley Masonry Company started with a simple goal: to bring unparalleled masonry expertise to Houston homes and businesses. Founded by seasoned masons with decades of experience, we understand the unique challenges presented by the Texas climate and soil.",
+        "Our approach is straightforward: meticulous planning, premium materials, and unwavering attention to detail. We believe in clear communication, honest assessments, and delivering results that exceed expectations. We treat every project, big or small, with the same level of care and dedication.",
+        "We're not just building structures; we're building relationships within the Houston community. We actively support local initiatives and strive to be a responsible and ethical business partner. Our commitment extends beyond the job site, shaping a better future for our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Unwavering Quality",
+          "description": "We use only the finest materials and time-tested techniques to ensure lasting durability."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled masons bring years of experience to every project, guaranteeing precision and beauty."
+        },
+        {
+          "title": "Houston-Focused",
+          "description": "We understand the local climate and construction challenges, providing tailored solutions."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to clear communication, on-time completion, and exceeding expectations."
+        }
+      ],
+      "ctaHeadline": "Get a Free Masonry Quote Now",
+      "ctaSubline": "Protect and enhance your property with our expert masonry services. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "brick-repair",
+        "name": "Brick Repair & Restoration",
+        "shortDescription": "Restore the beauty and integrity of your brickwork.",
+        "description": "Houston's humid climate and occasional flooding can wreak havoc on brick structures. Crowley Masonry Company specializes in diagnosing and repairing all types of brick damage, from cracked mortar joints to spalling bricks. We meticulously match existing brick and mortar to ensure a seamless repair that preserves the original aesthetic of your home or building. Our services include tuckpointing, brick replacement, crack repair, and weatherproofing. We understand the importance of maintaining the structural integrity of your brickwork, and we use only the highest-quality materials and proven techniques to deliver lasting results. Whether you have a historic home in The Heights or a modern townhouse in Midtown, we can restore your brick to its former glory. Don't let minor damage turn into major problems – contact us today for a free inspection and estimate. We also offer cleaning and sealing services to protect your brick from future damage.",
+        "process": [
+          "Step 1: Thorough inspection and damage assessment.",
+          "Step 2: Matching existing brick and mortar for a seamless repair.",
+          "Step 3: Careful removal of damaged brick and mortar.",
+          "Step 4: Expert installation of new brick and mortar, ensuring proper bonding and alignment."
+        ],
+        "benefits": [
+          "Improved structural integrity",
+          "Enhanced curb appeal",
+          "Prevention of further damage",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my brick needs repair?",
+            "answer": "Common signs include cracked or crumbling mortar, spalling bricks (where the face of the brick flakes off), and water damage. If you notice any of these issues, it's best to have a professional inspect your brickwork."
+          },
+          {
+            "question": "Can you match the existing brick on my home?",
+            "answer": "Yes, we have extensive experience matching brick and mortar colors and textures. We source brick from various suppliers to ensure a perfect match, preserving the original look of your home."
+          },
+          {
+            "question": "How long does brick repair take?",
+            "answer": "The duration of the repair depends on the extent of the damage. A small repair might take a day, while a larger project could take several days. We'll provide you with a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "stone-work",
+        "name": "Custom Stone Work",
+        "shortDescription": "Elevate your property with the timeless beauty of natural stone.",
+        "description": "Add a touch of elegance and sophistication to your Houston home or business with custom stone work from Crowley Masonry Company. We specialize in designing and installing a wide range of stone features, including stone facades, retaining walls, patios, walkways, and outdoor fireplaces. Our skilled masons have extensive experience working with various types of stone, from limestone and granite to sandstone and travertine. We carefully select each stone to ensure it complements the architectural style of your property and withstands the harsh Texas climate. Whether you're looking to create a rustic outdoor living space or a sleek modern facade, we can bring your vision to life. We work closely with you throughout the design process to ensure your complete satisfaction. Enhance your property's value and curb appeal with our expert stone work services. We understand the nuances of working with natural stone and ensure proper installation for lasting beauty and durability.",
+        "process": [
+          "Step 1: Design consultation and material selection.",
+          "Step 2: Site preparation and foundation work.",
+          "Step 3: Precise cutting and shaping of stone.",
+          "Step 4: Expert installation, ensuring proper alignment and bonding."
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased property value",
+          "Durable and long-lasting",
+          "Customized design options"
+        ],
+        "faq": [
+          {
+            "question": "What types of stone do you work with?",
+            "answer": "We work with a wide variety of natural stone, including limestone, granite, sandstone, travertine, and more. We can help you choose the best stone for your project based on your budget, aesthetic preferences, and the local climate."
+          },
+          {
+            "question": "How much does custom stone work cost?",
+            "answer": "The cost of custom stone work varies depending on the type of stone, the complexity of the design, and the size of the project. We provide free estimates to help you budget for your project."
+          },
+          {
+            "question": "How long does stone work last?",
+            "answer": "With proper installation and maintenance, stone work can last for generations. We use high-quality materials and proven techniques to ensure the longevity of our projects."
+          }
+        ]
+      },
+      {
+        "slug": "mortar-repair",
+        "name": "Mortar Repair & Repointing",
+        "shortDescription": "Protect your masonry with expert mortar repair services.",
+        "description": "Failing mortar joints are a common problem in Houston, especially in older homes and buildings. The constant expansion and contraction caused by the Texas heat and humidity can crack and weaken mortar, leading to water damage and structural issues. Crowley Masonry Company specializes in mortar repair and repointing, a process of removing damaged mortar and replacing it with fresh mortar. We use high-quality mortar mixes that are specifically designed to withstand the local climate. Our skilled masons carefully match the existing mortar color and texture to ensure a seamless repair. Repointing not only improves the appearance of your masonry but also prevents further damage and extends its lifespan. We meticulously grind out the old mortar and carefully pack in new mortar to ensure a tight seal. Protect your investment with our expert mortar repair services. We understand the importance of proper mortar techniques for the longevity of your masonry structures.",
+        "process": [
+          "Step 1: Inspection and assessment of mortar damage.",
+          "Step 2: Careful removal of deteriorated mortar.",
+          "Step 3: Matching existing mortar color and texture.",
+          "Step 4: Application of new mortar, ensuring proper compaction and bonding."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Improved structural stability",
+          "Enhanced aesthetic appeal",
+          "Extended lifespan of masonry"
+        ],
+        "faq": [
+          {
+            "question": "What is repointing?",
+            "answer": "Repointing is the process of removing damaged or deteriorated mortar from masonry joints and replacing it with new mortar. This helps to restore the structural integrity and appearance of the masonry."
+          },
+          {
+            "question": "How often should I repoint my brickwork?",
+            "answer": "The frequency of repointing depends on various factors, including the age of the brickwork, the type of mortar used, and the local climate. Generally, repointing is recommended every 25-50 years."
+          },
+          {
+            "question": "Can I repoint my brickwork myself?",
+            "answer": "While it's possible to repoint brickwork yourself, it's a labor-intensive and time-consuming process that requires specialized tools and knowledge. It's best to hire a professional to ensure the job is done correctly."
+          }
+        ]
+      },
+      {
+        "slug": "fireplaces-chimneys",
+        "name": "Fireplaces & Chimneys",
+        "shortDescription": "Build, repair, and maintain your fireplace and chimney with our expert services.",
+        "description": "Enjoy the warmth and ambiance of a fireplace with Crowley Masonry Company's comprehensive fireplace and chimney services. We specialize in building custom fireplaces, repairing damaged chimneys, and providing routine maintenance to ensure safe and efficient operation. Our services include chimney inspections, chimney cleaning, chimney repair, fireplace construction, and fireplace renovation. We understand the importance of proper ventilation and fire safety. Our skilled masons use only the highest-quality materials and adhere to strict building codes. Whether you're looking to build a new fireplace in your living room or repair a cracked chimney on your historic home, we can help. We also offer chimney sweeping services to remove creosote buildup and prevent chimney fires. Protect your home and family with our expert fireplace and chimney services. We understand the unique challenges of fireplace and chimney construction in the Houston climate.",
+        "process": [
+          "Step 1: Inspection and assessment of fireplace or chimney.",
+          "Step 2: Design and material selection (for new fireplaces).",
+          "Step 3: Chimney cleaning and repair (if needed).",
+          "Step 4: Construction or renovation of fireplace.",
+          "Step 5: Final inspection and safety check."
+        ],
+        "benefits": [
+          "Improved fire safety",
+          "Enhanced home value",
+          "Increased energy efficiency",
+          "Beautiful and functional fireplace"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my chimney cleaned?",
+            "answer": "It is recommended to have your chimney cleaned at least once a year, especially if you use your fireplace frequently. Creosote buildup can increase the risk of chimney fires."
+          },
+          {
+            "question": "What are the signs of a damaged chimney?",
+            "answer": "Common signs of a damaged chimney include cracked bricks, crumbling mortar, water leaks, and a leaning chimney. If you notice any of these issues, it's best to have a professional inspect your chimney."
+          },
+          {
+            "question": "Can you build a fireplace in my home?",
+            "answer": "Yes, we specialize in building custom fireplaces. We can work with you to design a fireplace that complements your home's style and meets your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Build durable and beautiful retaining walls to enhance your landscape.",
+        "description": "Protect your property from erosion and create beautiful outdoor spaces with retaining walls from Crowley Masonry Company. We specialize in designing and building retaining walls that are both functional and aesthetically pleasing. Our retaining walls are constructed using high-quality materials and proven techniques to ensure long-lasting durability. We understand the importance of proper drainage and structural stability. Our skilled masons have extensive experience building retaining walls of all sizes and shapes. Whether you need a small retaining wall to prevent soil erosion or a large retaining wall to create a terraced garden, we can help. We offer a variety of materials to choose from, including brick, stone, and concrete blocks. Enhance your landscape and protect your property with our expert retaining wall services. We understand the soil conditions and drainage challenges specific to the Houston area.",
+        "process": [
+          "Step 1: Site evaluation and design.",
+          "Step 2: Excavation and foundation preparation.",
+          "Step 3: Installation of drainage system.",
+          "Step 4: Construction of retaining wall using chosen materials.",
+          "Step 5: Backfilling and landscaping."
+        ],
+        "benefits": [
+          "Erosion control",
+          "Improved landscaping",
+          "Increased property value",
+          "Enhanced outdoor living spaces"
+        ],
+        "faq": [
+          {
+            "question": "What materials are used for retaining walls?",
+            "answer": "We offer a variety of materials for retaining walls, including brick, stone, and concrete blocks. The best material for your project will depend on your budget, aesthetic preferences, and the specific site conditions."
+          },
+          {
+            "question": "How much does a retaining wall cost?",
+            "answer": "The cost of a retaining wall varies depending on the size, materials, and complexity of the project. We provide free estimates to help you budget for your project."
+          },
+          {
+            "question": "Do I need a permit to build a retaining wall?",
+            "answer": "In many cases, you will need a permit to build a retaining wall, especially if it is over a certain height. We can help you obtain the necessary permits for your project."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-living",
+        "name": "Outdoor Living Spaces",
+        "shortDescription": "Create your dream outdoor oasis with our custom masonry services.",
+        "description": "Transform your backyard into a stunning outdoor living space with custom masonry from Crowley Masonry Company. We specialize in designing and building outdoor kitchens, patios, fireplaces, and other features that will enhance your enjoyment of your property. Our skilled masons use high-quality materials and proven techniques to create outdoor living spaces that are both beautiful and functional. We understand the importance of creating a space that is tailored to your specific needs and preferences. Whether you're looking to create a cozy outdoor retreat or a spacious entertaining area, we can help. We offer a variety of design options and materials to choose from, including brick, stone, and concrete. Maximize your outdoor living potential with our expert masonry services. We understand how to design outdoor spaces that thrive in the Houston climate, with durable materials and proper drainage.",
+        "process": [
+          "Step 1: Design consultation and planning.",
+          "Step 2: Site preparation and excavation.",
+          "Step 3: Construction of outdoor features (kitchens, patios, fireplaces).",
+          "Step 4: Installation of appliances and fixtures.",
+          "Step 5: Final touches and landscaping."
+        ],
+        "benefits": [
+          "Enhanced outdoor living experience",
+          "Increased property value",
+          "Customized design options",
+          "Durable and long-lasting construction"
+        ],
+        "faq": [
+          {
+            "question": "What features can I include in my outdoor living space?",
+            "answer": "We can build a variety of features for your outdoor living space, including outdoor kitchens, patios, fireplaces, fire pits, seating areas, and more. We can work with you to design a space that meets your specific needs and preferences."
+          },
+          {
+            "question": "What materials are best for outdoor living spaces?",
+            "answer": "The best materials for outdoor living spaces are those that are durable, weather-resistant, and aesthetically pleasing. Common materials include brick, stone, concrete, and wood."
+          },
+          {
+            "question": "How much does an outdoor living space cost?",
+            "answer": "The cost of an outdoor living space varies depending on the size, features, and materials used. We provide free estimates to help you budget for your project."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Sugar Land",
+        "slug": "sugar-land-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company is proud to offer our expert masonry services to the residents and businesses of Sugar Land, Texas. Known for its meticulously planned communities developed primarily in the 1990s and 2000s, Sugar Land boasts beautiful homes and commercial properties that often feature brick, stone, and stucco elements. We understand the specific aesthetic and structural needs of these properties and are committed to providing top-quality craftsmanship.\n\nOur services in Sugar Land include brick repair and installation, stone veneer work, custom patios, walkways, and retaining walls. We also specialize in chimney repair and construction. Understanding the challenges posed by Sugar Land's hot and humid climate, we use only the highest-quality materials and proven techniques to ensure lasting durability and beauty for your masonry projects.",
+        "localContext": "Sugar Land is characterized by its master-planned communities and family-friendly environment, with many homes constructed between the 1990s and 2000s.",
+        "nearbyAreas": [
+          "Missouri City",
+          "Stafford",
+          "Richmond"
+        ]
+      },
+      {
+        "city": "Katy",
+        "slug": "katy-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company extends its professional masonry services to Katy, Texas, a rapidly growing city known for its newer planned communities developed from the 2000s to the present. Katy's residential landscape is marked by modern homes and meticulously designed neighborhoods that demand skilled masonry work.\n\nWe provide a comprehensive range of masonry services in Katy, including new construction brickwork, stone pathways, outdoor fireplaces, and repair services for existing structures. Given Katy's climate of very hot, humid summers and mild winters, our team is experienced in selecting and installing materials that withstand the weather, ensuring longevity and aesthetic appeal.",
+        "localContext": "Katy is a suburban city with a significant number of master-planned communities built in the 21st century, popular with families.",
+        "nearbyAreas": [
+          "Brookshire",
+          "Fulshear",
+          "Cypress"
+        ]
+      },
+      {
+        "city": "The Woodlands",
+        "slug": "the-woodlands-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company proudly serves The Woodlands, Texas, a renowned master-planned community known for its beautiful homes and lush landscaping. With homes constructed from the 1980s to the present, The Woodlands presents a diverse range of architectural styles, often incorporating brick, stone, and other masonry elements.\n\nOur services in The Woodlands include brick and stone installation, repair of existing masonry structures, outdoor living space construction (patios, fireplaces, outdoor kitchens), and custom masonry projects. We understand the importance of maintaining the aesthetic integrity of The Woodlands' homes and use only high-quality materials and skilled craftsmanship to deliver exceptional results. We are also familiar with the climate challenges of The Woodlands, and we use materials that are designed to hold up against the heat and humidity of the area.",
+        "localContext": "The Woodlands is a large master-planned community known for its extensive green spaces, upscale homes and commercial centers.",
+        "nearbyAreas": [
+          "Spring",
+          "Conroe",
+          "Tomball"
+        ]
+      },
+      {
+        "city": "Pearland",
+        "slug": "pearland-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company is pleased to offer its masonry expertise to the growing community of Pearland, Texas. Pearland experienced significant growth in the 1990s and 2000s, resulting in numerous suburban developments featuring brick and stone accents. We understand the specific needs of Pearland homeowners and businesses and are dedicated to providing top-quality masonry services.\n\nOur services in Pearland encompass brick repair and installation, stone veneer applications, custom patios and walkways, and retaining wall construction. We also offer chimney repair and construction services. Given Pearland's hot and humid climate, we prioritize using durable materials and proven techniques to ensure the longevity and beauty of all our masonry projects.",
+        "localContext": "Pearland is a rapidly growing suburban city with many residential developments built in the 1990s and 2000s.",
+        "nearbyAreas": [
+          "Friendswood",
+          "Alvin",
+          "Houston"
+        ]
+      },
+      {
+        "city": "League City",
+        "slug": "league-city-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company extends its professional masonry services to League City, Texas, a vibrant community known for its newer residential developments built primarily in the 2000s. League City's homes and businesses often feature brick, stone, and stucco elements, requiring skilled masonry work for both construction and maintenance.\n\nWe offer a comprehensive range of masonry services in League City, including brick repair, stone veneer installation, custom outdoor living spaces, and retaining wall construction. Understanding the local climate, we use materials designed to hold up against the hot and humid summers and occasional severe weather events.",
+        "localContext": "League City is a coastal community with many newer homes and a growing population.",
+        "nearbyAreas": [
+          "Dickinson",
+          "Clear Lake Shores",
+          "Kemah"
+        ]
+      },
+      {
+        "city": "Missouri City",
+        "slug": "missouri-city-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company is dedicated to providing exceptional masonry services to the residents and businesses of Missouri City, Texas. With a mix of established neighborhoods and newer developments, Missouri City offers a variety of architectural styles that often incorporate brick, stone, and other masonry elements. We are committed to delivering top-quality craftsmanship and reliable service.\n\nOur services in Missouri City include brick repair and installation, stone veneer work, custom patios and walkways, and chimney repair. We understand the challenges posed by the Texas climate and use only the highest-quality materials and proven techniques to ensure the durability and beauty of your masonry projects.",
+        "localContext": "Missouri City is a diverse suburban city with a mix of older and newer residential areas.",
+        "nearbyAreas": [
+          "Sugar Land",
+          "Stafford",
+          "Arcola"
+        ]
+      },
+      {
+        "city": "Spring",
+        "slug": "spring-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company proudly provides expert masonry services in Spring, Texas, a large and growing community north of Houston. Spring features a mix of established neighborhoods and newer developments, with many homes incorporating brick, stone, and other masonry elements in their construction. We are committed to delivering high-quality craftsmanship and reliable service to Spring residents.\n\nOur services in Spring include brick repair and installation, stone veneer applications, custom patios and walkways, outdoor fireplaces, and chimney repair. We understand the importance of using durable materials that can withstand the Texas climate, ensuring the longevity and beauty of your masonry projects.",
+        "localContext": "Spring is a large unincorporated community with a mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "The Woodlands",
+          "Tomball",
+          "Humble"
+        ]
+      },
+      {
+        "city": "Friendswood",
+        "slug": "friendswood-tx",
+        "state": "TX",
+        "content": "Crowley Masonry Company is pleased to offer its expert masonry services to the community of Friendswood, Texas. Known for its well-maintained homes and friendly atmosphere, Friendswood features a variety of architectural styles that often incorporate brick and stone elements. We are committed to providing top-quality craftsmanship and reliable service to Friendswood residents.\n\nOur services in Friendswood include brick repair and installation, stone veneer applications, custom patios and walkways, and retaining wall construction. We understand the importance of using durable materials that can withstand the Texas climate, ensuring the longevity and beauty of your masonry projects.",
+        "localContext": "Friendswood is a suburban city known for its quality schools and family-friendly environment.",
+        "nearbyAreas": [
+          "Pearland",
+          "League City",
+          "Webster"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Brick Repair",
+        "text": "Crowley Masonry did an excellent job repairing the brick on my chimney after some storm damage. The team was professional, punctual, and the repair blends seamlessly with the existing brick. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Retaining Wall",
+        "text": "We hired Crowley Masonry to build a retaining wall in our backyard to prevent erosion. They did a great job with the construction and the wall looks fantastic. There were some minor delays due to weather, but they communicated well throughout the process.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Mortar Repair",
+        "text": "The mortar on my older home was crumbling, and Crowley Masonry did a fantastic job repointing it. The house looks so much better, and I feel confident that it's protected from water damage now. Great attention to detail!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Stone Work",
+        "text": "Crowley Masonry transformed our patio with beautiful stonework. They helped us choose the perfect stone and the craftsmanship is outstanding. It's now our favorite place to relax and entertain guests.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "service": "Fireplace Repair",
+        "text": "Our fireplace was in dire need of repair, and Crowley Masonry did an excellent job. They were able to fix the cracks in the firebox and clean the chimney. It's now safe and functional again. I especially appreciated their thorough inspection.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Outdoor Kitchen",
+        "text": "Crowley Masonry Company built an amazing outdoor kitchen for us! From the initial design to the final installation, they were professional, creative, and attentive to our needs. We've already had several cookouts and are loving our new space.",
+        "date": "2025-04-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Crowley Masonry | Houston Masonry Contractor",
+        "description": "Expert masonry services in Houston, TX. Brick repair, stonework, fireplaces, retaining walls. Free estimates!"
+      },
+      "about": {
+        "title": "About Crowley Masonry Company",
+        "description": "Learn about Crowley Masonry Company's history, values, and commitment to quality in Houston, TX."
+      },
+      "services": {
+        "title": "Masonry Services | Houston, TX",
+        "description": "Comprehensive masonry services: brick repair, stonework, mortar repair, fireplaces, retaining walls, outdoor living."
+      },
+      "contact": {
+        "title": "Contact Crowley Masonry",
+        "description": "Get a free estimate from Crowley Masonry Company. Serving Houston, Sugar Land, Katy, The Woodlands, and more."
+      },
+      "reviews": {
+        "title": "Crowley Masonry Reviews",
+        "description": "Read reviews from satisfied Crowley Masonry customers in Houston, TX. See what our clients say about our quality and service."
+      },
+      "service-areas": {
+        "title": "Crowley Masonry Service Areas",
+        "description": "Crowley Masonry Company provides expert masonry services in Houston, Sugar Land, Katy, The Woodlands, Pearland, and League City."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "brick-repair": "/images/service-brick-repair.webp",
+      "stone-work": "/images/service-stone-work.webp",
+      "mortar-repair": "/images/service-mortar-repair.webp",
+      "fireplaces-chimneys": "/images/service-fireplaces-chimneys.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "outdoor-living": "/images/service-outdoor-living.webp"
+    },
+    "servicesResponsive": {
+      "brick-repair": {
+        "src": "/images/service-brick-repair.webp",
+        "srcset": "/images/service-brick-repair-400w.webp 400w, /images/service-brick-repair-800w.webp 800w, /images/service-brick-repair-1200w.webp 1200w, /images/service-brick-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stone-work": {
+        "src": "/images/service-stone-work.webp",
+        "srcset": "/images/service-stone-work-400w.webp 400w, /images/service-stone-work-800w.webp 800w, /images/service-stone-work-1200w.webp 1200w, /images/service-stone-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "mortar-repair": {
+        "src": "/images/service-mortar-repair.webp",
+        "srcset": "/images/service-mortar-repair-400w.webp 400w, /images/service-mortar-repair-800w.webp 800w, /images/service-mortar-repair-1200w.webp 1200w, /images/service-mortar-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fireplaces-chimneys": {
+        "src": "/images/service-fireplaces-chimneys.webp",
+        "srcset": "/images/service-fireplaces-chimneys-400w.webp 400w, /images/service-fireplaces-chimneys-800w.webp 800w, /images/service-fireplaces-chimneys-1200w.webp 1200w, /images/service-fireplaces-chimneys.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-living": {
+        "src": "/images/service-outdoor-living.webp",
+        "srcset": "/images/service-outdoor-living-400w.webp 400w, /images/service-outdoor-living-800w.webp 800w, /images/service-outdoor-living-1200w.webp 1200w, /images/service-outdoor-living.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
